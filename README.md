@@ -6,7 +6,11 @@
 
 * Algoritimos
 
+Todos os exercícios que envolvem algoritimos deve ficar dentro da pasta algoritimos.
+
 ### Linguagens:
 
 * Python
 * Rust
+
+Quem quiser implementar mais soluções fiquem a vontade.
