@@ -23,6 +23,7 @@ git clone https://github.com/ecossistemaanima/Solucoes-HackerRank
 
 ✅ Problemas resolvidos
 
+    PlusMinus
     Simples array sum
     Solve me first
 
