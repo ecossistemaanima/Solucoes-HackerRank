@@ -21,9 +21,5 @@ git clone https://github.com/ecossistemaanima/Solucoes-HackerRank
 
 ✅ Problemas resolvidos
 
-    A very big sum
-    Compare the triples
-    Diagonal difference
-    Plus minus
     Simples array sum
     Solve me first
