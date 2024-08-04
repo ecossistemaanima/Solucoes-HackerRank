@@ -1,7 +1,6 @@
-## Resolução de Exercícios do HackerRank
+# Resolução de Exercícios do HackerRank
 
 <img src="https://github.com/ecossistemaanima/Solu-es-HackerRank/assets/63022500/8bd10246-cdb1-458b-ada2-2ec698d7cd30" alt="Descrição da Imagem" width="500" />
-
 
 📃 Sobre o projeto
 
@@ -15,7 +14,10 @@ Empresas de todo o mundo, incluindo grandes nomes como IBM, Amazon e Goldman Sac
 🔨 Instalação
 
 # Clone o projeto
+
+```
 git clone https://github.com/ecossistemaanima/Solucoes-HackerRank
+```
 
 # Rode o projeto
 
