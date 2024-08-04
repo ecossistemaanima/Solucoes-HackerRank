@@ -25,3 +25,5 @@ git clone https://github.com/ecossistemaanima/Solucoes-HackerRank
 
     Simples array sum
     Solve me first
+
+📚 👋 Atualmente estou à procura de empregos para engenheiro de software e/ou engenheiro de dados júnior/recém-formado (ou área relacionada) tanto no Brasil quanto fora e ficaria muito grato se você pudesse me indicar para alguma empresa ou vaga. Meu github está aberto para mais informações sobre Stacks e Projetos. Obrigado!
