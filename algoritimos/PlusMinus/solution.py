@@ -1,11 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
-
 def plusMinus(arr):
     n = len(arr)
     positive_v = len(list(filter(lambda x: x > 0, arr)))
