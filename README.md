@@ -2,6 +2,8 @@
 
 <img src="https://github.com/ecossistemaanima/Solu-es-HackerRank/assets/63022500/8bd10246-cdb1-458b-ada2-2ec698d7cd30" alt="Descrição da Imagem" width="500" />
 
+#
+
 📃 Sobre o projeto
 
 HackerRank é uma plataforma online que oferece desafios de programação e testes de habilidades para desenvolvedores de software. A plataforma tem como objetivo ajudar empresas a avaliar as habilidades técnicas de seus candidatos a emprego e também permitir que os desenvolvedores pratiquem suas habilidades de codificação e resolvam problemas complexos.
