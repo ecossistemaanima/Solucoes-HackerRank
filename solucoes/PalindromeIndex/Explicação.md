@@ -2,6 +2,6 @@
 
 Tanto o ponteiro da esquerda quanto da direita avançam em direção ao centro. Dado a string "aaab":
 
-- Á medida que os ponteiros avançam, é checado se s[l+1:r+1] é um palindromo: "aab". Caso seja seja, o char a ser retirado é o primeiro "a".
+- Á medida que os ponteiros avançam, é checado se s[l+1:r+1] é um palindromo: "aab". a posição a ser retornada é 3, pois o primeiro "a" fica de fora.
 
-- É checado se s[l+1:r+1] é um palindromo: "aaa". Caso seja, o char a ser retirado é o último "b".
+- É checado se s[l+1:r+1] é um palindromo: "aaa". Caso seja, a posição a ser retornada é 3, pois "b" ficou de fora.
